@@ -82,6 +82,8 @@ img {
     font-size: 20px;
     color: hsl(234, 12%, 34%);
 }
+@media (max-width: 768px) {.border-blue{margin-bottom: 50px;}
+}
 @media (max-width: 768px) {.border-red,.border-yellow {width: 100%;}
 }
 @media (max-width: 768px) {
