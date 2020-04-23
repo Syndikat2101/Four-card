@@ -82,9 +82,9 @@ img {
     font-size: 20px;
     color: hsl(234, 12%, 34%);
 }
-@media (max-device-width: 1440px) {.border-red,.border-yellow {width: 100%;}
+@media (max-width: 1440px) {.border-red,.border-yellow {width: 100%;}
 }
-@media (max-device-width: 1440px) {
+@media (max-width: 1440px) {
         .border-green,.border-blue,.box-middle
             {width: 80%;}
     }
